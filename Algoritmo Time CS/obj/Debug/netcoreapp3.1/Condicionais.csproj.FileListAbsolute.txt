@@ -1,0 +1,26 @@
+C:\Users\dev\Desktop\Projects-Csharp\Condicionais\obj\Debug\netcoreapp3.1\Condicionais.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\Projects-Csharp\Condicionais\obj\Debug\netcoreapp3.1\Condicionais.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\Projects-Csharp\Condicionais\obj\Debug\netcoreapp3.1\Condicionais.AssemblyInfo.cs
+C:\Users\dev\Desktop\Projects-Csharp\Condicionais\obj\Debug\netcoreapp3.1\Condicionais.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\Projects-Csharp\Condicionais\bin\Debug\netcoreapp3.1\Condicionais.exe
+C:\Users\dev\Desktop\Projects-Csharp\Condicionais\bin\Debug\netcoreapp3.1\Condicionais.deps.json
+C:\Users\dev\Desktop\Projects-Csharp\Condicionais\bin\Debug\netcoreapp3.1\Condicionais.runtimeconfig.json
+C:\Users\dev\Desktop\Projects-Csharp\Condicionais\bin\Debug\netcoreapp3.1\Condicionais.runtimeconfig.dev.json
+C:\Users\dev\Desktop\Projects-Csharp\Condicionais\bin\Debug\netcoreapp3.1\Condicionais.dll
+C:\Users\dev\Desktop\Projects-Csharp\Condicionais\bin\Debug\netcoreapp3.1\Condicionais.pdb
+C:\Users\dev\Desktop\Projects-Csharp\Condicionais\obj\Debug\netcoreapp3.1\Condicionais.dll
+C:\Users\dev\Desktop\Projects-Csharp\Condicionais\obj\Debug\netcoreapp3.1\Condicionais.pdb
+C:\Users\dev\Desktop\Projects-Csharp\Condicionais\obj\Debug\netcoreapp3.1\Condicionais.genruntimeconfig.cache
+C:\Users\Felipe\Desktop\Senai\C#\Algoritmo Time CS\bin\Debug\netcoreapp3.1\Condicionais.exe
+C:\Users\Felipe\Desktop\Senai\C#\Algoritmo Time CS\bin\Debug\netcoreapp3.1\Condicionais.deps.json
+C:\Users\Felipe\Desktop\Senai\C#\Algoritmo Time CS\bin\Debug\netcoreapp3.1\Condicionais.runtimeconfig.json
+C:\Users\Felipe\Desktop\Senai\C#\Algoritmo Time CS\bin\Debug\netcoreapp3.1\Condicionais.runtimeconfig.dev.json
+C:\Users\Felipe\Desktop\Senai\C#\Algoritmo Time CS\bin\Debug\netcoreapp3.1\Condicionais.dll
+C:\Users\Felipe\Desktop\Senai\C#\Algoritmo Time CS\bin\Debug\netcoreapp3.1\Condicionais.pdb
+C:\Users\Felipe\Desktop\Senai\C#\Algoritmo Time CS\obj\Debug\netcoreapp3.1\Condicionais.csprojAssemblyReference.cache
+C:\Users\Felipe\Desktop\Senai\C#\Algoritmo Time CS\obj\Debug\netcoreapp3.1\Condicionais.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\Senai\C#\Algoritmo Time CS\obj\Debug\netcoreapp3.1\Condicionais.AssemblyInfo.cs
+C:\Users\Felipe\Desktop\Senai\C#\Algoritmo Time CS\obj\Debug\netcoreapp3.1\Condicionais.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\Senai\C#\Algoritmo Time CS\obj\Debug\netcoreapp3.1\Condicionais.dll
+C:\Users\Felipe\Desktop\Senai\C#\Algoritmo Time CS\obj\Debug\netcoreapp3.1\Condicionais.pdb
+C:\Users\Felipe\Desktop\Senai\C#\Algoritmo Time CS\obj\Debug\netcoreapp3.1\Condicionais.genruntimeconfig.cache
